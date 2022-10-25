@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Diseño de Aplicaciones',
+      title: 'Diseño de Aplicaciones móviles',
       home: Scaffold(
         appBar: AppBar(
           title: const Text('Catálogo de películas'),
